@@ -151,3 +151,47 @@ a, p{
 .btn-pricing{
 
 }
+
+/* cta */
+
+#cta{
+    background-color: #FF4C68;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+#cta h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #ffffff;
+
+    padding-top: 50px;
+}
+
+/* footer */
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+#footer i{
+    padding-left: 15px;
+}
+
+#footer .icons{
+    margin-bottom: 15px;
+}
+
+@media screen (max-width: 1028px) {
+
+    #title{
+      text-align: center;
+    }
+
+    .img-title{
+      transform: rotate(0);
+      position: static;
+    }
+}
