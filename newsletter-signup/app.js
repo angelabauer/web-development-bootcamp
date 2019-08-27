@@ -33,10 +33,10 @@ app.post('/', function(req, res){
     let jsonData = JSON.stringify(data);
 
     let options = {
-        url: 'https://us3.api.mailchimp.com/3.0/lists/935f51bf6b',
+        url: 'https://us3.api.mailchimp.com/3.0/lists/LISTID',
         method: 'POST',
         headers:{
-            "Authorization": "sabrina_veras@live.com a0d165f8bdd91adcd20aa618447d10b5-us3"
+            "Authorization": "sabrina_veras@live.com API KEY"
         },
         body: jsonData
     }
@@ -65,9 +65,3 @@ app.listen(5000, function(){
     console.log('server is running on port 5000');
 })
 
-
-//API key
-//a0d165f8bdd91adcd20aa618447d10b5-us3
-
-//list id - audience id
-//935f51bf6b
