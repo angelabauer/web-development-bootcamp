@@ -1,7 +1,6 @@
 {
   "name": "secrets",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +11,9 @@
     "body-parser": "^1.19.0",
     "ejs": "^2.6.2",
     "express": "^4.17.1",
+    "mongoose": "^5.7.1",
+    "mongoose-encryption": "^2.0.2",
     "nodemon": "^1.19.1"
-  }
+  },
+  "description": ""
 }
