@@ -1,45 +1,22 @@
 
-# Web development Bootcamp
-This repository contains information of the course "The Complete 2019 Web Development Bootcamp" by Udemy.
+# The Complete 2020 Web Development Bootcamp
 
-## Responsibility
+Whats I will learn:
 
-****HTML****: stucture
-****CSS****: style
-****JAVASCRIPT****: behavior
-
-## HTML
-
-table example:
-
-```html
-<table>
-	<thead>
-		<tr>
-			<th></th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td></td>
-		</tr>
-	</tbody>
-	<tfoot>
-		<tr>
-			<td></td>
-		</tr>
-	</tfoot>
-</table>
-```
-
-## CSS
-
-
-
-## JAVASCRIPT
-
-
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
+	- Be able to build ANY website you want.
+	
+	- Craft a portfolio of websites to apply for junior developer jobs.
+	
+	- Build fully-fledged websites and web apps for your startup or business.
+	
+	- Work as a freelance web developer.
+	
+	- Master backend development with Node
+	
+	- Master frontend development with React
+	
+	- Learn the latest frameworks and technologies, including Javascript ES6, Bootstrap 4, MongoDB.
+	
+	- Learn professional developer best practices.
+	
+link: https://www.udemy.com/course/the-complete-web-development-bootcamp/
