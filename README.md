@@ -15,7 +15,7 @@ Whats I will learn:
 	
 	- Master frontend development with React
 	
-	- Learn the latest frameworks and technologies, including Javascript ES6, Bootstrap 4, MongoDB.
+	- Learn the latest frameworks and technologies, including Javascript ES6, Bootstrap 5, MongoDB.
 	
 	- Learn professional developer best practices.
 	
